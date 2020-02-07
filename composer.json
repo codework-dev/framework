@@ -1,0 +1,16 @@
+{
+    "name": "codework/framework",
+    "description": "component codework",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codework",
+            "email": "codeworkd@gmail.com"
+        }
+    ],
+    "require": {}
+}
